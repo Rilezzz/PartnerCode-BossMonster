@@ -1,0 +1,25 @@
+.heroBox {
+  background: #594a4a;
+  border: 5px solid #FFFFFF;
+  border-radius: 10px;
+  height: 25vh;
+  width: 15vw;
+}
+
+.bossBox {
+  background-image: url('https://images.unsplash.com/photo-1601513445498-5dbffc8d5d5a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80');
+  background-size: cover;
+  border: 5px solid #FFFFFF;
+  border-radius: 10px;
+  height: 45vh;
+  width: 45vw;
+}
+
+.potionBox {
+  padding: 1em;
+  background: #303030;
+  border: 5px solid #FFFFFF;
+  border-radius: 10px;
+  height: 25vh;
+  width: 25vw;
+}
